@@ -1,0 +1,46 @@
+Peng Gu
+
+testurl.sh: tests whether the urls in the file are valid urls
+backup.sh: move the files from current directory into backup directory that the user demands
+diskhog.sh: returns the 5 largest items in the current directory in order of decreasing size
+linecount.sh: counts the total line number of all files in the current directorygradeit.sh: compares the output of a student's rot128 and diamond with the professor's
+
+
+Answers to Data File Analysis:
+1. cut -d "," -f 10 adult.data | sort -b | uniq -c | sort -h -r
+  21790  Male
+  10771  Female
+
+2. cut -d "," -f 15 adult.data | sort -b | uniq -c | sort -h -r
+  24720  <=50K
+   7841  >50K
+
+3. cut -d "," -f 9 adult.data | sort -b | uniq -c | sort -h -r
+  27816  White
+   3124  Black
+   1039  Asian-Pac-Islander
+    311  Amer-Indian-Eskimo
+    271  Other
+
+4. cut -d "," -f 9-10 adult.data | sort -b | uniq -c | sort -h -r
+  19174  White, Male
+   8642  White, Female
+   1569  Black, Male
+   1555  Black, Female
+    693  Asian-Pac-Islander, Male
+    346  Asian-Pac-Islander, Female
+    192  Amer-Indian-Eskimo, Male
+    162  Other, Male
+    119  Amer-Indian-Eskimo, Female
+    109  Other, Female
+
+
+5. Part1: 8h
+   Part2: 5h
+   Part3+4: 2h
+   Part5: 10h
+   Part6: 2h
+
+6. I wouldn't remember even if I did
+
+I affirm that i have adhered to the Honor Code in this assignment
