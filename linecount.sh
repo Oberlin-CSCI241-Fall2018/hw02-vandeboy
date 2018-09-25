@@ -1,5 +1,5 @@
 #!/bin/sh
-# Peng Gu
+# Peng Gu and Yifan Chen
 # 09/23/2018
 # linecount.sh
 # This file counts the total line number of all files in the current directory and ignores folders. If the user enters a glob pattern from command line for a type of files, the linecount will only count those files.

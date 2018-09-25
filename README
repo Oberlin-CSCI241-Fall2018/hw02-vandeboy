@@ -1,4 +1,4 @@
-Peng Gu
+Peng Gu and Yifan Chen
 
 testurl.sh: tests whether the urls in the file are valid urls
 backup.sh: move the files from current directory into backup directory that the user demands
@@ -41,6 +41,6 @@ Answers to Data File Analysis:
    Part5: 10h
    Part6: 2h
 
-6. I wouldn't remember even if I did
+6. we wouldn't remember even if we did
 
-I affirm that i have adhered to the Honor Code in this assignment
+We affirm that we have adhered to the Honor Code in this assignment

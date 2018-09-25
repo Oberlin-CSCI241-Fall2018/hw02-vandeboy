@@ -1,5 +1,5 @@
 #!/bin/sh
-# Peng Gu
+# Peng Gu and Yifan Chen
 # 09/23/2018
 # The user should type the path for file from command line, and the program 
 #reads rot128 and diamond from it. The output of rot128 and diamond 

@@ -1,5 +1,5 @@
 #!/bin/sh
-# Peng Gu
+# Peng Gu and Yifan Chen
 # 09/22/2018
 # backup.sh
 # This program checks if the designated file or folder has no newer copy in the backup folder, and in this case copies the file to backup folder. This program can copy multiple files and directories in one time from command line

@@ -1,5 +1,5 @@
 #!/bin/sh
-# Peng Gu
+# Peng Gu and Yifan Chen
 # 09/23/2018
 # diskhog.sh
 # This file displays the 5 largest items (files or folders) in the current directory in decreasing order of size, and makes the sizes readable
